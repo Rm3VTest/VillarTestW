@@ -1,0 +1,28 @@
+
+
+body {
+    text-align: center;
+    background-image: url("background.png");
+}
+
+header {
+    font-style: italic;
+    font-size: 30px;
+}
+
+label {
+    font-size: 20px;
+}
+
+input {
+    background-color:dimgray;
+    opacity: .4;
+    font-size: 20px;
+
+}
+
+button {
+    font-size: 20px;
+    font-style: Arial;
+}
+
